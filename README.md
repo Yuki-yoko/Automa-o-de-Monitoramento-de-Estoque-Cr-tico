@@ -13,7 +13,7 @@ Em muitas empresas, o acompanhamento manual dos níveis de estoque pode levar a 
 Esta automação elimina a necessidade de verificações manuais diárias, notificando automaticamente os responsáveis sempre que forem encontrados produtos com estoque insuficiente.
 
 ## Fluxo da Automação
-
+<img width="1270" height="257" alt="image" src="https://github.com/user-attachments/assets/2e8d9ee5-ccc6-4ad4-8e0b-dfc83fac5229" />
 
 ## Tecnologias Utilizadas
 
@@ -23,9 +23,6 @@ Esta automação elimina a necessidade de verificações manuais diárias, notif
 * Docker
 * OAuth 2.0
 * Google Cloud Platform
-
-## Estrutura do Workflow
-<img width="1270" height="257" alt="image" src="https://github.com/user-attachments/assets/2e8d9ee5-ccc6-4ad4-8e0b-dfc83fac5229" />
 
 ## Exemplo de Planilha
 <img width="818" height="238" alt="image" src="https://github.com/user-attachments/assets/8fdbb572-e270-4201-b6b4-5173511968b5" />
