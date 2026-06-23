@@ -6,6 +6,10 @@ Este projeto consiste em uma automação desenvolvida utilizando o n8n para moni
 
 O objetivo é identificar itens cujo estoque atual esteja abaixo do estoque mínimo definido pela empresa e enviar automaticamente um relatório por e-mail para os responsáveis pela reposição.
 
+## Arquitetura do Workflow
+<img width="973" height="161" alt="image" src="https://github.com/user-attachments/assets/a26c227e-b29f-4c52-9f76-babddc57ab50" />
+
+
 ## Problema Resolvido
 
 Em muitas empresas, o acompanhamento manual dos níveis de estoque pode levar a atrasos na reposição de produtos e possíveis rupturas no abastecimento.
